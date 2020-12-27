@@ -1,0 +1,7 @@
+m1向けのdocker環境が正式サポートされたらdockerfileも追加予定
+
+# requirements
+homebrewをrossettaで動かしてインストール
+pandoc
+wkhtmltopdf
+pandoc-crossref
